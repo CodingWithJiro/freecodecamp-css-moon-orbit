@@ -12,6 +12,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d26dd1c9-9141-44ac-9b48-2dfe5c41de4e/deploy-status)](https://moon-orbit-fcc-jiro.netlify.app/)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%202-blue)
+![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.freecodecamp-css-moon-orbit&left_text=repo%20views)
 
 ## ℹ️ A Simulation Page of the Moon Orbiting Earth
 
