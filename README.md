@@ -48,7 +48,7 @@ It uses `@keyframes` and `transform` to create continuous motion and demonstrate
 - Using `transform` and `translate` to position elements dynamically
 - Creating orbit animations using `@keyframes` and rotating containers
 - Managing element centering through CSS Flexbox and `translate(-50%, -50%)`
-- Building visually engaging effects with pure CSS — no JavaScript needed
+- Building visually engaging effects with pure CSS without using any JavaScript
 
 ---
 
